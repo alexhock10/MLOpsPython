@@ -1,4 +1,3 @@
-name: ci-build
 pr: none
 trigger:
   branches:
